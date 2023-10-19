@@ -20,37 +20,5 @@
     "Age": 21,
     "ImagePath": null,
     "Inventories": []
-  },
-  {
-    "Name": "aefa",
-    "Level": 1,
-    "Health": 13,
-    "Deffence": 135,
-    "Agility": 123,
-    "Strength": 1243123,
-    "Intelect": 12412,
-    "Charisma": 41231,
-    "Country": "efaea",
-    "Weapon": "aef",
-    "Money": "1",
-    "Description": "efaef",
-    "Skills": [],
-    "Friends": [
-      {
-        "Friend": "aeg",
-        "Enemy": null
-      }
-    ],
-    "Enemies": [
-      {
-        "Friend": null,
-        "Enemy": "ae"
-      }
-    ],
-    "Gender": 0,
-    "Type": 3,
-    "Age": 351,
-    "ImagePath": null,
-    "Inventories": []
   }
 ]
